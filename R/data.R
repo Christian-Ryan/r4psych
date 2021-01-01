@@ -17,3 +17,11 @@
 #' @author Branjerdporn et al.
 'Branjerdporn_2019'
 
+#' This is the Edwards cleaned dataset
+#' @usage data(Edwards_cleaned)
+#'
+#' @author Edwards et al.
+'Edwards_cleaned'
+
+
+
