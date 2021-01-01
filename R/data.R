@@ -10,3 +10,10 @@
 #'
 #' @author Edwards et al.
 'Edwards_2015'
+
+#' This is the Branjerdporn_2019 dataset
+#' @usage data(Branjerdporn_2019)
+#'
+#' @author Branjerdporn et al.
+'Branjerdporn_2019'
+
