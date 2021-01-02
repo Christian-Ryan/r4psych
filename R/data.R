@@ -70,7 +70,17 @@
 #' @author Rice & Ryan
 'tas_as_text'
 
+#' This is the vdv dataset
+#' @usage data(vdv_2015)
+#'
+#' @author van der Velde et al.
+'vdv_2015'
 
+#' This is the vdv cleaned dataset
+#' @usage data(vdv_cleaned)
+#'
+#' @author van der Velde et al.
+'vdv_cleaned'
 
 
 
