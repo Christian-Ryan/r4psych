@@ -23,5 +23,14 @@
 #' @author Edwards et al.
 'Edwards_cleaned'
 
+#' This is the Gysin cleaned dataset
+#' @usage data(Gysin_2016)
+#'
+#' @author Gysin et al.
+'Gysin_2016'
+
+
+
+
 
 

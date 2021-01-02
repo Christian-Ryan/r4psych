@@ -1,5 +1,5 @@
 library(devtools)
- load("inst/extdata/Edwards_cleaned.Rdata")
+ load("inst/extdata/Gysin_2016.Rdata")
 
 # Rename df to data file name
 # Edwards_2015 <- df
@@ -9,6 +9,4 @@ library(devtools)
 
 # clear environment
 # rm(list = ls())
-
-
 
