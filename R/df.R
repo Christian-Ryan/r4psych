@@ -1,5 +1,5 @@
 library(devtools)
-#load("inst/extdata/vdv_2015.Rdata")
+#load("inst/extdata/Palser_tas_20.Rdata")
 
 # Rename df to data file name
 # Edwards_2015 <- df
@@ -10,9 +10,10 @@ library(devtools)
 # clear environment
 # rm(list = ls())
 
-# Edwards_2015 <- df
-# use_data(Edwards_2015)
+# Palser_tas_20 <- df
+# use_data(Palser_tas_20)
 # rm(list = ls())
 
-
-
+# Palser_tas_20 <- tas_20
+# use_data(Palser_tas_20)
+# rm(list = ls())

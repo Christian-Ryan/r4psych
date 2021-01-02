@@ -64,6 +64,13 @@
 #' @author Palser et al.
 'Palser_cleaned'
 
+#' This is the Palser_tas_20 dataset
+#' @usage data(Palser_tas_20)
+#'
+#' @author Palser et al.
+'Palser_tas_20'
+
+
 #' This is the tas_as_text dataset
 #' @usage data(tas_as_text)
 #'
