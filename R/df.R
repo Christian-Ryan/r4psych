@@ -1,5 +1,5 @@
 library(devtools)
-#load("inst/extdata/Palser_tas_20.Rdata")
+# load("inst/extdata/Reilly_2016.Rdata")
 
 # Rename df to data file name
 # Edwards_2015 <- df
@@ -14,6 +14,3 @@ library(devtools)
 # use_data(Palser_tas_20)
 # rm(list = ls())
 
-# Palser_tas_20 <- tas_20
-# use_data(Palser_tas_20)
-# rm(list = ls())

@@ -70,6 +70,11 @@
 #' @author Palser et al.
 'Palser_tas_20'
 
+#' This is the Reilly_2016 dataset
+#' @usage data(Reilly_2016)
+#'
+#' @author Reilly et al.
+'Reilly_2016'
 
 #' This is the tas_as_text dataset
 #' @usage data(tas_as_text)
