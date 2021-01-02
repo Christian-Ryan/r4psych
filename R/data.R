@@ -52,6 +52,27 @@
 #' @author McErlean et al.
 'McErlean_cleaned'
 
+#' This is the Palser_2018 dataset
+#' @usage data(Palser_2018)
+#'
+#' @author Palser et al.
+'Palser_2018'
+
+#' This is the Palser_cleaned dataset
+#' @usage data(Palser_cleaned)
+#'
+#' @author Palser et al.
+'Palser_cleaned'
+
+#' This is the tas_as_text dataset
+#' @usage data(tas_as_text)
+#'
+#' @author Rice & Ryan
+'tas_as_text'
+
+
+
+
 
 
 
