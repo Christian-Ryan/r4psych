@@ -3,15 +3,22 @@
 \docType{data}
 \name{Larson_2015}
 \alias{Larson_2015}
-\title{This is the Larson dataset}
+\title{Larson_2015 dataset}
 \format{
 An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 135 rows and 15 columns.
+}
+\source{
+\url{https://figshare.com/articles/_Testing_the_8216_Extreme_Female_ Brain_8217_Theory_of_Psychosis_in_Adults_with_Autism_Spectrum_Disorder_with_or_without_ Co_Morbid_Psychosis_/1448213 }
 }
 \usage{
 data(Larson_2015)
 }
 \description{
-This is the Larson dataset
+Larson, F. V., Lai, M.-C., Wagner, A. P., MRC AIMS Consortium,
+Baron-Cohen, S., & Holland, A. J. (2015). Testing the ‘Extreme Female Brain’
+Theory of Psychosis in Adults with Autism Spectrum Disorder with or without
+Co-Morbid Psychosis. PLOS ONE, 10(6), e0128102.
+https://doi.org/10.1371/journal.pone.0128102
 }
 \author{
 Larson et al.

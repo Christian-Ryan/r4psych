@@ -3,7 +3,7 @@
 \docType{data}
 \name{Edwards_2015}
 \alias{Edwards_2015}
-\title{Edwards_2019 dataset}
+\title{Edwards_2015 dataset}
 \format{
 An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 32 rows and 20 columns.
 }

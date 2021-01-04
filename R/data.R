@@ -9,7 +9,7 @@
 #' @source \url{https://ndownloader.figstatic.com/files/14059100}
 'Branjerdporn_2019'
 
-#' Edwards_2019 dataset
+#' Edwards_2015 dataset
 #' @usage data(Edwards_2015)
 #'
 #' @description Edwards, S. G., Stephenson, L. J., Dalmaso, M., & Bayliss, A. P. (2015).
@@ -24,30 +24,62 @@
 #' This is the Edwards cleaned dataset
 #' @usage data(Edwards_cleaned)
 #'
+#' @description Edwards, S. G., Stephenson, L. J., Dalmaso, M., & Bayliss, A. P. (2015).
+#' Social orienting in gaze leading: A mechanism for shared attention.
+#' Proceedings of the Royal Society B: Biological Sciences, 282(1812),
+#' 20151141. https://doi.org/10.1098/rspb.2015.1141
+#'
 #' @author Edwards et al.
+#' @source \url{https://datadryad.org/stash/dataset/doi:10.5061/dryad.8bt42}
 'Edwards_cleaned'
 
-#' This is the Gysin dataset
+#' Gysin_2016 dataset
 #' @usage data(Gysin_2016)
 #'
+#' @description Gysin-Maillart, A., Schwab, S., Soravia, L., Megert, M., & Michel, K. (2016).
+#' A Novel Brief Therapy for Patients Who Attempt Suicide: A 24-months Follow-Up
+#' Randomized Controlled Study of the Attempted Suicide Short Intervention Program (ASSIP).
+#' PLOS Medicine, 13(3), e1001968. https://doi.org/10.1371/journal.pmed.1001968
+#'
 #' @author Gysin et al.
+#' @source \url{https://datadryad.org/stash/dataset/doi:10.5061/dryad.85nf3}
 'Gysin_2016'
 
 #' This is the Gysin cleaned dataset
 #' @usage data(Gysin_cleaned)
 #'
+#' @description Gysin-Maillart, A., Schwab, S., Soravia, L., Megert, M., & Michel, K. (2016).
+#' A Novel Brief Therapy for Patients Who Attempt Suicide: A 24-months Follow-Up
+#' Randomized Controlled Study of the Attempted Suicide Short Intervention Program (ASSIP).
+#' PLOS Medicine, 13(3), e1001968. https://doi.org/10.1371/journal.pmed.1001968
+#'
 #' @author Gysin et al.
+#' @source \url{https://datadryad.org/stash/dataset/doi:10.5061/dryad.85nf3}
 'Gysin_cleaned'
 
-#' This is the Larson dataset
+#' Larson_2015 dataset
 #' @usage data(Larson_2015)
 #'
+#' @description Larson, F. V., Lai, M.-C., Wagner, A. P., MRC AIMS Consortium,
+#' Baron-Cohen, S., & Holland, A. J. (2015). Testing the ‘Extreme Female Brain’
+#' Theory of Psychosis in Adults with Autism Spectrum Disorder with or without
+#' Co-Morbid Psychosis. PLOS ONE, 10(6), e0128102.
+#' https://doi.org/10.1371/journal.pone.0128102
+#'
+#' @source \url{https://figshare.com/articles/_Testing_the_8216_Extreme_Female_ Brain_8217_Theory_of_Psychosis_in_Adults_with_Autism_Spectrum_Disorder_with_or_without_ Co_Morbid_Psychosis_/1448213 }
 #' @author Larson et al.
 'Larson_2015'
 
 #' This is the Larson dataset
 #' @usage data(Larson_cleaned)
 #'
+#' @description Larson, F. V., Lai, M.-C., Wagner, A. P., MRC AIMS Consortium,
+#' Baron-Cohen, S., & Holland, A. J. (2015). Testing the ‘Extreme Female Brain’
+#' Theory of Psychosis in Adults with Autism Spectrum Disorder with or without
+#' Co-Morbid Psychosis. PLOS ONE, 10(6), e0128102.
+#' https://doi.org/10.1371/journal.pone.0128102
+#'
+#' @source \url{https://figshare.com/articles/_Testing_the_8216_Extreme_Female_ Brain_8217_Theory_of_Psychosis_in_Adults_with_Autism_Spectrum_Disorder_with_or_without_ Co_Morbid_Psychosis_/1448213 }
 #' @author Larson et al.
 'Larson_cleaned'
 
