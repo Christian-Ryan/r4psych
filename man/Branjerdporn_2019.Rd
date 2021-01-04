@@ -4,7 +4,9 @@
 \name{Branjerdporn_2019}
 \alias{Branjerdporn_2019}
 \title{This is the Branjerdporn_2019 dataset.
-Branjerdporn, G., Meredith, P., Strong, J., & Green, M. (2019). Sensory sensitivity and its relationship with adult attachment and parenting styles. PLOS ONE, 14(1), e0209555. https://doi.org/10.1371/journal.pone.0209555.}
+Branjerdporn, G., Meredith, P., Strong, J., & Green, M. (2019).
+Sensory sensitivity and its relationship with adult attachment and parenting styles.
+PLOS ONE, 14(1), e0209555. https://doi.org/10.1371/journal.pone.0209555.}
 \format{
 An object of class \code{data.frame} with 156 rows and 113 columns.
 }
@@ -16,7 +18,9 @@ data(Branjerdporn_2019)
 }
 \description{
 This is the Branjerdporn_2019 dataset.
-Branjerdporn, G., Meredith, P., Strong, J., & Green, M. (2019). Sensory sensitivity and its relationship with adult attachment and parenting styles. PLOS ONE, 14(1), e0209555. https://doi.org/10.1371/journal.pone.0209555.
+Branjerdporn, G., Meredith, P., Strong, J., & Green, M. (2019).
+Sensory sensitivity and its relationship with adult attachment and parenting styles.
+PLOS ONE, 14(1), e0209555. https://doi.org/10.1371/journal.pone.0209555.
 }
 \author{
 Branjerdporn et al.
