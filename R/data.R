@@ -9,10 +9,16 @@
 #' @source \url{https://ndownloader.figstatic.com/files/14059100}
 'Branjerdporn_2019'
 
-#' This is the Edwards dataset
+#' Edwards_2019 dataset
 #' @usage data(Edwards_2015)
 #'
+#' @description Edwards, S. G., Stephenson, L. J., Dalmaso, M., & Bayliss, A. P. (2015).
+#' Social orienting in gaze leading: A mechanism for shared attention.
+#' Proceedings of the Royal Society B: Biological Sciences, 282(1812),
+#' 20151141. https://doi.org/10.1098/rspb.2015.1141
+#'
 #' @author Edwards et al.
+#' @source \url{https://datadryad.org/stash/dataset/doi:10.5061/dryad.8bt42}
 'Edwards_2015'
 
 #' This is the Edwards cleaned dataset

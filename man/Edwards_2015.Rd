@@ -3,15 +3,21 @@
 \docType{data}
 \name{Edwards_2015}
 \alias{Edwards_2015}
-\title{This is the Edwards dataset}
+\title{Edwards_2019 dataset}
 \format{
 An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 32 rows and 20 columns.
+}
+\source{
+\url{https://datadryad.org/stash/dataset/doi:10.5061/dryad.8bt42}
 }
 \usage{
 data(Edwards_2015)
 }
 \description{
-This is the Edwards dataset
+Edwards, S. G., Stephenson, L. J., Dalmaso, M., & Bayliss, A. P. (2015).
+Social orienting in gaze leading: A mechanism for shared attention.
+Proceedings of the Royal Society B: Biological Sciences, 282(1812),
+20151141. https://doi.org/10.1098/rspb.2015.1141
 }
 \author{
 Edwards et al.
