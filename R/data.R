@@ -86,12 +86,22 @@
 #' This is the McErlean_2020 dataset
 #' @usage data(McErlean_2020)
 #'
+#' @description McErlean, A. B. J., & Lim, L. X. C. (2020).
+#' Relationship between Parenting Style, Alexithymia and Aggression in Emerging Adults.
+#' Journal of Family Issues, 41(6), 853–874. https://doi.org/10.1177/0192513X19886647
+#'
+#' @source https://figshare.com/articles/Anonymous_data_Supplemental_material_for_Relationship_between_Parenting_Style_Alexithymia_and_Aggression_in_Emerging_Adults/10315661/1
 #' @author McErlean et al.
 'McErlean_2020'
 
 #' This is the McErlean_cleaned dataset
 #' @usage data(McErlean_cleaned)
 #'
+#' @description McErlean, A. B. J., & Lim, L. X. C. (2020).
+#' Relationship between Parenting Style, Alexithymia and Aggression in Emerging Adults.
+#' Journal of Family Issues, 41(6), 853–874. https://doi.org/10.1177/0192513X19886647
+#'
+#' @source https://figshare.com/articles/Anonymous_data_Supplemental_material_for_Relationship_between_Parenting_Style_Alexithymia_and_Aggression_in_Emerging_Adults/10315661/1
 #' @author McErlean et al.
 'McErlean_cleaned'
 
