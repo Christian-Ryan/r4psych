@@ -79,30 +79,30 @@
 #' Co-Morbid Psychosis. PLOS ONE, 10(6), e0128102.
 #' https://doi.org/10.1371/journal.pone.0128102
 #'
-#' @source \url{https://figshare.com/articles/_Testing_the_8216_Extreme_Female_ Brain_8217_Theory_of_Psychosis_in_Adults_with_Autism_Spectrum_Disorder_with_or_without_ Co_Morbid_Psychosis_/1448213 }
+#' @source \url{https://figshare.com/articles/_Testing_the_8216_Extreme_Female_ Brain_8217_Theory_of_Psychosis_in_Adults_with_Autism_Spectrum_Disorder_with_or_without_ Co_Morbid_Psychosis_/1448213}
 #' @author Larson et al.
 'Larson_cleaned'
 
-#' This is the McErlean_2020 dataset
+#' McErlean_2020 dataset
 #' @usage data(McErlean_2020)
 #'
 #' @description McErlean, A. B. J., & Lim, L. X. C. (2020).
 #' Relationship between Parenting Style, Alexithymia and Aggression in Emerging Adults.
 #' Journal of Family Issues, 41(6), 853–874. https://doi.org/10.1177/0192513X19886647
 #'
-#' @source https://figshare.com/articles/Anonymous_data_Supplemental_material_for_Relationship_between_Parenting_Style_Alexithymia_and_Aggression_in_Emerging_Adults/10315661/1
-#' @author McErlean et al.
+#' @source \url{https://figshare.com/articles/Anonymous_data_Supplemental_material_for_Relationship_between_Parenting_Style_Alexithymia_and_Aggression_in_Emerging_Adults/10315661/1}
+#' @author McErlean & Lim
 'McErlean_2020'
 
-#' This is the McErlean_cleaned dataset
+#' McErlean_cleaned dataset
 #' @usage data(McErlean_cleaned)
 #'
 #' @description McErlean, A. B. J., & Lim, L. X. C. (2020).
 #' Relationship between Parenting Style, Alexithymia and Aggression in Emerging Adults.
 #' Journal of Family Issues, 41(6), 853–874. https://doi.org/10.1177/0192513X19886647
 #'
-#' @source https://figshare.com/articles/Anonymous_data_Supplemental_material_for_Relationship_between_Parenting_Style_Alexithymia_and_Aggression_in_Emerging_Adults/10315661/1
-#' @author McErlean et al.
+#' @source \url{https://figshare.com/articles/Anonymous_data_Supplemental_material_for_Relationship_between_Parenting_Style_Alexithymia_and_Aggression_in_Emerging_Adults/10315661/1}
+#' @author McErlean & Lim
 'McErlean_cleaned'
 
 #' This is the Palser_2018 dataset

@@ -8,7 +8,7 @@
 An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 135 rows and 15 columns.
 }
 \source{
-\url{https://figshare.com/articles/_Testing_the_8216_Extreme_Female_ Brain_8217_Theory_of_Psychosis_in_Adults_with_Autism_Spectrum_Disorder_with_or_without_ Co_Morbid_Psychosis_/1448213 }
+\url{https://figshare.com/articles/_Testing_the_8216_Extreme_Female_ Brain_8217_Theory_of_Psychosis_in_Adults_with_Autism_Spectrum_Disorder_with_or_without_ Co_Morbid_Psychosis_/1448213}
 }
 \usage{
 data(Larson_cleaned)

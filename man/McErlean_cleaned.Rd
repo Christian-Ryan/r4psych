@@ -3,12 +3,12 @@
 \docType{data}
 \name{McErlean_cleaned}
 \alias{McErlean_cleaned}
-\title{This is the McErlean_cleaned dataset}
+\title{McErlean_cleaned dataset}
 \format{
 An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 177 rows and 17 columns.
 }
 \source{
-https://figshare.com/articles/Anonymous_data_Supplemental_material_for_Relationship_between_Parenting_Style_Alexithymia_and_Aggression_in_Emerging_Adults/10315661/1
+\url{https://figshare.com/articles/Anonymous_data_Supplemental_material_for_Relationship_between_Parenting_Style_Alexithymia_and_Aggression_in_Emerging_Adults/10315661/1}
 }
 \usage{
 data(McErlean_cleaned)
@@ -19,6 +19,6 @@ Relationship between Parenting Style, Alexithymia and Aggression in Emerging Adu
 Journal of Family Issues, 41(6), 853–874. https://doi.org/10.1177/0192513X19886647
 }
 \author{
-McErlean et al.
+McErlean & Lim
 }
 \keyword{datasets}
