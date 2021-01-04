@@ -1,8 +1,9 @@
 #' Branjerdporn_2019 dataset
-#' Branjerdporn, G., Meredith, P., Strong, J., & Green, M. (2019).
+#' @usage data(Branjerdporn_2019)
+#'
+#' @description Branjerdporn, G., Meredith, P., Strong, J., & Green, M. (2019).
 #' Sensory sensitivity and its relationship with adult attachment and parenting styles.
 #' PLOS ONE, 14(1), e0209555. https://doi.org/10.1371/journal.pone.0209555.
-#' @usage data(Branjerdporn_2019)
 #'
 #' @author Branjerdporn et al.
 #' @source \url{https://ndownloader.figstatic.com/files/14059100}
