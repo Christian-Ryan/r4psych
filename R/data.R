@@ -70,7 +70,7 @@
 #' @author Larson et al.
 'Larson_2015'
 
-#' This is the Larson dataset
+#' This is the Larson dataset after changing some datatypes
 #' @usage data(Larson_cleaned)
 #'
 #' @description Larson, F. V., Lai, M.-C., Wagner, A. P., MRC AIMS Consortium,
@@ -82,6 +82,19 @@
 #' @source \url{https://figshare.com/articles/_Testing_the_8216_Extreme_Female_ Brain_8217_Theory_of_Psychosis_in_Adults_with_Autism_Spectrum_Disorder_with_or_without_ Co_Morbid_Psychosis_/1448213}
 #' @author Larson et al.
 'Larson_cleaned'
+
+#' This is the Larson dataset with imputed values for 5 outliers on FSIQ
+#' @usage data(Larson_imp)
+#'
+#' @description Larson, F. V., Lai, M.-C., Wagner, A. P., MRC AIMS Consortium,
+#' Baron-Cohen, S., & Holland, A. J. (2015). Testing the ‘Extreme Female Brain’
+#' Theory of Psychosis in Adults with Autism Spectrum Disorder with or without
+#' Co-Morbid Psychosis. PLOS ONE, 10(6), e0128102.
+#' https://doi.org/10.1371/journal.pone.0128102
+#'
+#' @source \url{https://figshare.com/articles/_Testing_the_8216_Extreme_Female_ Brain_8217_Theory_of_Psychosis_in_Adults_with_Autism_Spectrum_Disorder_with_or_without_ Co_Morbid_Psychosis_/1448213}
+#' @author Larson et al.
+'Larson_imp'
 
 #' McErlean_2020 dataset
 #' @usage data(McErlean_2020)
