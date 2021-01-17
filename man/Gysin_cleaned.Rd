@@ -3,7 +3,7 @@
 \docType{data}
 \name{Gysin_cleaned}
 \alias{Gysin_cleaned}
-\title{This is the Gysin cleaned dataset}
+\title{Gysin cleaned dataset}
 \format{
 An object of class \code{data.frame} with 120 rows and 13 columns.
 }

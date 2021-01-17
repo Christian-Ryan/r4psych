@@ -3,7 +3,7 @@
 \docType{data}
 \name{Edwards_cleaned}
 \alias{Edwards_cleaned}
-\title{This is the Edwards cleaned dataset}
+\title{Edwards cleaned dataset}
 \format{
 An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 256 rows and 8 columns.
 }

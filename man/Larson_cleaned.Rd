@@ -3,7 +3,7 @@
 \docType{data}
 \name{Larson_cleaned}
 \alias{Larson_cleaned}
-\title{This is the Larson dataset after changing some datatypes}
+\title{Larson dataset after changing some datatypes}
 \format{
 An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 135 rows and 15 columns.
 }

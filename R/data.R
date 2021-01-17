@@ -21,7 +21,7 @@
 #' @source \url{https://datadryad.org/stash/dataset/doi:10.5061/dryad.8bt42}
 'Edwards_2015'
 
-#' This is the Edwards cleaned dataset
+#' Edwards cleaned dataset
 #' @usage data(Edwards_cleaned)
 #'
 #' @description Edwards, S. G., Stephenson, L. J., Dalmaso, M., & Bayliss, A. P. (2015).
@@ -45,7 +45,7 @@
 #' @source \url{https://datadryad.org/stash/dataset/doi:10.5061/dryad.85nf3}
 'Gysin_2016'
 
-#' This is the Gysin cleaned dataset
+#' Gysin cleaned dataset
 #' @usage data(Gysin_cleaned)
 #'
 #' @description Gysin-Maillart, A., Schwab, S., Soravia, L., Megert, M., & Michel, K. (2016).
@@ -70,7 +70,7 @@
 #' @author Larson et al.
 'Larson_2015'
 
-#' This is the Larson dataset after changing some datatypes
+#' Larson dataset after changing some datatypes
 #' @usage data(Larson_cleaned)
 #'
 #' @description Larson, F. V., Lai, M.-C., Wagner, A. P., MRC AIMS Consortium,
