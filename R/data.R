@@ -159,3 +159,9 @@
 #'
 #' @author van der Velde et al.
 'vdv_cleaned'
+
+#' This is the london twitter dataset downloaded with rtweet package
+#' @usage data(london)
+#'
+#' @author Ryan
+'london'
