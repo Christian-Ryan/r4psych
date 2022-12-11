@@ -171,3 +171,9 @@
 #'
 #' @author Ryan, Christian
 'london_2'
+
+#' This is the london twitter dataset after the further cleaning steps for blog post 3.3
+#' @usage data(london_3)
+#'
+#' @author Ryan, Christian
+'london_3'
