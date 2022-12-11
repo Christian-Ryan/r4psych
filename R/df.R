@@ -1,5 +1,10 @@
 library(devtools)
-#load("inst/extdata/Larson_imp.Rdata")
+#load("inst/extdata/London_3.Rdata")
+
+#london_3 <- df
+#rm(df)
+# send to data folder
+# use_data(london_3)
 
 # Rename df to data file name
 # Edwards_2015 <- df
